@@ -1,0 +1,332 @@
+{
+  "users": [
+    {
+      "email": "kotzebue@mail.com",
+      "password": "$2a$10$Dwisay8UsCVJTm5O0ukcnO96./z6CqGohWZV47zCqQAvBmaKbM462",
+      "name": {
+        "firstName": "ksu",
+        "lastName": "kotzebue"
+      },
+      "birthDate": "01.01.1989",
+      "gender": "female",
+      "phone": "+123456789",
+      "citizenship": "",
+      "id": 1
+    },
+    {
+      "email": "123@123.com",
+      "password": "$2a$10$79X3EXNC2SjCshSa0hc8XOpI8RQhdYhmley/dXedspzGj5g4..PBO",
+      "name": {
+        "firstName": "Peter",
+        "lastName": "Handke"
+      },
+      "birthDate": "06.12.1942",
+      "gender": "male",
+      "phone": "+123456789",
+      "citizenship": "",
+      "id": 2
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "date": "07.05.2023",
+      "price": "200",
+      "times": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR125",
+      "seats": 45
+    },
+    {
+      "id": 2,
+      "date": "08.05.2023",
+      "price": "120",
+      "times": {
+        "start": "17:00",
+        "end": "19:00"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR126",
+      "seats": 23
+    },
+    {
+      "id": 3,
+      "date": "09.05.2023",
+      "price": "190",
+      "times": {
+        "start": "16:10",
+        "end": "18:35"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR127",
+      "seats": 100
+    },
+    {
+      "id": 4,
+      "date": "10.05.2023",
+      "price": "126",
+      "times": {
+        "start": "13:20",
+        "end": "15:40"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR128",
+      "seats": 48
+    },
+    {
+      "id": 5,
+      "date": "11.05.2023",
+      "price": "180",
+      "times": {
+        "start": "9:20",
+        "end": "11:20"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR129",
+      "seats": 94
+    },
+    {
+      "id": 6,
+      "date": "12.05.2023",
+      "price": "180",
+      "times": {
+        "start": "10:20",
+        "end": "12:20"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR130",
+      "seats": 34
+    },
+    {
+      "id": 7,
+      "date": "13.05.2023",
+      "price": "150",
+      "times": {
+        "start": "14:15",
+        "end": "16:20"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR131",
+      "seats": 100
+    },
+    {
+      "id": 8,
+      "date": "14.05.2023",
+      "price": "160",
+      "times": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR132",
+      "seats": 79
+    },
+    {
+      "id": 9,
+      "date": "15.05.2023",
+      "price": "100",
+      "times": {
+        "start": "23:30",
+        "end": "01:30"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR133",
+      "seats": 79
+    },
+    {
+      "id": 10,
+      "date": "16.05.2023",
+      "price": "160",
+      "times": {
+        "start": "15:10",
+        "end": "17:20"
+      },
+      "route": {
+        "from": "London",
+        "to": "Dublin"
+      },
+      "flightNum": "FR134",
+      "seats": 79
+    },
+    {
+      "id": 11,
+      "date": "7.05.2023",
+      "price": "140",
+      "times": {
+        "start": "10:20",
+        "end": "12:20"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR125",
+      "seats": 55
+    },
+    {
+      "id": 12,
+      "date": "08.05.2023",
+      "price": "152",
+      "times": {
+        "start": "5:20",
+        "end": "7:10"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR126",
+      "seats": 11
+    },
+    {
+      "id": 13,
+      "date": "09.05.2023",
+      "price": "210",
+      "times": {
+        "start": "13:00",
+        "end": "15:15"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR127",
+      "seats": 78
+    },
+    {
+      "id": 14,
+      "date": "10.05.2023",
+      "price": "130",
+      "times": {
+        "start": "19:45",
+        "end": "21:40"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR128",
+      "seats": 100
+    },
+    {
+      "id": 15,
+      "date": "11.05.2023",
+      "price": "170",
+      "times": {
+        "start": "13:00",
+        "end": "15:15"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR129",
+      "seats": 23
+    },
+    {
+      "id": 16,
+      "date": "12.05.2023",
+      "price": "140",
+      "times": {
+        "start": "16:50",
+        "end": "18:50"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR130",
+      "seats": 23
+    },
+    {
+      "id": 17,
+      "date": "12.05.2023",
+      "price": "140",
+      "times": {
+        "start": "16:50",
+        "end": "18:50"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR131",
+      "seats": 67
+    },
+    {
+      "id": 18,
+      "date": "13.05.2023",
+      "price": "200",
+      "times": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR132",
+      "seats": 80
+    },
+    {
+      "id": 19,
+      "date": "14.05.2023",
+      "price": "150",
+      "times": {
+        "start": "21:30",
+        "end": "23:45"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR133",
+      "seats": 23
+    },
+    {
+      "id": 20,
+      "date": "15.05.2023",
+      "price": "150",
+      "times": {
+        "start": "18:30",
+        "end": "20:10"
+      },
+      "route": {
+        "from": "Dublin",
+        "to": "London"
+      },
+      "flightNum": "FR134",
+      "seats": 45
+    }
+  ]
+}
